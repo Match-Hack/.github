@@ -41,7 +41,7 @@ Explore our [Litepaper](https://github.com/Match-Hack/Docs/blob/main/Litepaper%2
 
 **Our dedicated team of hackers is passionate about building a stronger hacker community.**
 
-We are enthusiasts driven by a love for coding and a desire to make hackathons more accessible. Melanie, Maxime, Nathan, Thomas, and Adam bring a wealth of experience and knowledge to Match&Hack. We're excited to offer a platform that simplifies team formation and makes hackathons more enjoyable for all participants.
+We are enthusiasts driven by a love for coding and a desire to make hackathons more accessible. Mélanie, Maxime, Nathan, Thomas, and Adam bring a wealth of experience and knowledge to Match&Hack. We're excited to offer a platform that simplifies team formation and makes hackathons more enjoyable for all participants.
 
 By focusing on building strong teams, Match&Hack contributes to the success of hackers, hackathons, and the broader tech community.
 
