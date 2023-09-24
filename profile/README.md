@@ -19,7 +19,7 @@ In the world of hackathons and coding challenges, finding the right teammates wi
 - Backend powered by Lens Protocol.
 - Messaging services provided by XMTP.
 - API and data search by Airstack.
-- Profile verification through PolygonID.
+- Blockchain layer through Polygon.
 
 ## **The Concept** 💡
 
