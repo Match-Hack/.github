@@ -31,7 +31,7 @@ Match&Hack is a social network designed exclusively for hackers. It streamlines 
 
 ## **Pitch Deck**
 
-Explore our [pitch deck](https://github.com/Match-Hack) for a comprehensive overview of our project 📖
+Explore our [pitch deck](https://github.com/Match-Hack/Docs/blob/main/Match%26Hack%20pitch%20deck.pdf) for a comprehensive overview of our project 📖
 
 ## **Litepaper**
 
