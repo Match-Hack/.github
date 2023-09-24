@@ -33,6 +33,10 @@ Match&Hack is a social network designed exclusively for hackers. It streamlines 
 
 Explore our [pitch deck](https://github.com/Match-Hack) for a comprehensive overview of our project 📖
 
+## **Litepaper**
+
+Explore our [Litepaper](https://github.com/Match-Hack/Docs/blob/main/Litepaper%20Hack%26Match.pdf) for a more detailed overview of our project 📖
+
 ## **The Team** 🏆
 
 **Our dedicated team of hackers is passionate about building a stronger hacker community.**
@@ -45,4 +49,4 @@ By focusing on building strong teams, Match&Hack contributes to the success of h
 
 Our project is open source, and we welcome contributions from fellow hackers and developers.
 
-**Melanie - Maxime - Thomas - Nathan - Adam**
+**Mélanie - Maxime - Thomas - Nathan - Adam**
