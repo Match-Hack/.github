@@ -4,7 +4,7 @@
 
 In the world of hackathons and coding challenges, finding the right teammates with the skills and affinities you need can be challenging. Match&Hack is here to simplify the process, making it effortless for hackers to connect, form teams, and collaborate effectively.
 
-**Try our web-app on IPFS [here](https://github.com/Match-Hack)**
+**Try our web-app on Vercel [here](https://lens-app-amber.vercel.app/)**
 
 ## **Features** ✨
 
